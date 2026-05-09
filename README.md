@@ -1,6 +1,6 @@
 # Salut ! Moi c'est Aristide Kalmogo 👋
 
-### 🚀 Administrateur Systèmes & Réseaux | Passionné par l'Automatisation & le Design
+### 🚀 Administrateur Systèmes & Réseaux | Passionné par l'Automatisation,la création de video publicitaire avec l'IA & le Design graphique 
 
 Je suis un jeune diplômé en **Réseaux et Systèmes Informatiques (RSI)** de l'IST-OUAGA2000. Mon objectif est de concevoir des infrastructures robustes, sécurisées et automatisées pour répondre aux défis technologiques actuels.
 
@@ -13,7 +13,7 @@ Je suis un jeune diplômé en **Réseaux et Systèmes Informatiques (RSI)** de l
 - **Automatisation & DevOps :** Ansible, Docker, Scripting Bash.
 - **Développement Web :** Framework Laravel, PHP, HTML/CSS.
 - **Design Graphique :** Création d'identités visuelles, logos et supports marketing.
-
+- **Montage video :** Création de vidéos publicitaires avec l'intelligence artificielle
 ---
 
 ### 💼 Expériences Phares
